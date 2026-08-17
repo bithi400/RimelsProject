@@ -6,7 +6,8 @@ system("cls")
 
 for t in text:
     print(t, end="", flush=True)
-    sleep(0.1)
-
+    
+    sleep(0.05)
 
 print()
+print("Hello")
